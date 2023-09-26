@@ -1,3 +1,6 @@
+Demonstration of generating video from live streaming  in the browser with [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
+
+
 # ffmpeg wasm Canvas Demo
 
 Demonstration of generating video from a canvas animation in the browser with [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)
